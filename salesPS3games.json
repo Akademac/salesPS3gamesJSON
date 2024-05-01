@@ -1,5 +1,5 @@
 [
-  "actions": [
+  {"actions": [
     {
       "id": 1,
       "name": "God of War III",
@@ -109,4 +109,5 @@
       "genre": "action"
     }
   ]
+  } 
 ]
