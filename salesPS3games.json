@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "God of War III",
-      "price": "20",
+      "year": 2010,
+      "price": 20,
       "img": "assets/Images/god_of_war_III.jpg",
       "instock": true,
       "genre": "action"
@@ -11,7 +12,8 @@
         {
       "id": 2,
       "name": "Grand Theft Auto V",
-      "price": "10",
+      "year": 2013,    
+      "price": 10,
       "img": "assets/Images/gta5.jpg",
       "instock": true,
       "genre": "action"
@@ -19,7 +21,8 @@
         {
       "id": 3,
       "name": "Far Cry 3",
-      "price": "7",
+      "year": 2012,        
+      "price": 7,
       "img": "assets/Images/far_cry.png",
       "instock": true,
       "genre": "action"
@@ -27,7 +30,8 @@
         {
       "id": 4,
       "name": "Uncharted 2: Among Thieves",
-      "price": "15",
+      "year": 2009,    
+      "price": 15,
       "img": "assets/Images/uncharted2.jpeg",
       "instock": true,
       "genre": "action"
@@ -35,15 +39,17 @@
             {
       "id": 5,
       "name": "Batman: Arkham City",
-      "price": "6",
+      "year": 2011,       
+      "price": 6,
       "img": "assets/Images/batman.webp",
       "instock": true,
       "genre": "action"
     },
     {
       "id": 6,
-      "name": "Assasins Credd Rogue",
-      "price": "6",
+      "name": "Assassins Creed Rogue",
+      "year": 2014,
+      "price": 6,
       "img": "assets/Images/assasins_creed.jpg",
       "instock": true,
       "genre": "action"
@@ -51,7 +57,8 @@
     {
       "id": 7,
       "name": "Bioshock Infinite",
-      "price": "5",
+      "year": 2013,
+      "price": 5,
       "img": "assets/Images/bioshock.jpg",
       "instock": true,
       "genre": "action"
@@ -59,7 +66,8 @@
     {
       "id": 8,
       "name": "Call Of Duty Ghosts",
-      "price": "6",
+      "year": 2013,
+      "price": 6,
       "img": "assets/Images/call_of_duty.jpg",
       "instock": true,
       "genre": "action"
@@ -67,7 +75,8 @@
     {
       "id": 9,
       "name": "Blood Stone 007",
-      "price": "6",
+      "year": 2010,
+      "price": 6,
       "img": "assets/Images/james_bond.jpg",
       "instock": true,
       "genre": "action"
@@ -75,10 +84,29 @@
     {
       "id": 10,
       "name": "Red Dead Redemption",
-      "price": "6",
+      "year": 2010,
+      "price": 20,
       "img": "assets/Images/rd_redemption.jpg",
       "instock": true,
       "genre": "action"
     },
+        {
+      "id": 11,
+      "name": "The Last Of Us",
+      "year": 2015,
+      "price": 25,
+      "img": "assets/Images/the_last_of_us.webp",
+      "instock": true,
+      "genre": "action"
+    },
+        {
+      "id": 12,
+      "name": "Resident Evil 6",
+      "year": 2012,
+      "price": 10,
+      "img": "assets/Images/resident_evil.webp",
+      "instock": true,
+      "genre": "action"
+    }
   ]
 ]
