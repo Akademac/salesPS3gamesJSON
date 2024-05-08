@@ -296,6 +296,76 @@
        "multiplayer": true
      }
    ] 
+  },
+  {
+    "racing": [
+      {
+      "id": 27,
+      "name": "Burnout Paradise",
+      "year": 2008,
+      "price": 10,
+      "img": "assets/Images/burnout_paradise.jpg",
+      "instock": true,
+      "genre": "racing",
+      "popul": 52,
+       "multiplayer": true
+     },
+      {
+      "id": 28,
+      "name": "Dirt 3",
+      "year": 2011,
+      "price": 15,
+      "img": "assets/Images/dirt_3.jpg",
+      "instock": true,
+      "genre": "racing",
+      "popul": 80,
+       "multiplayer": true
+     },
+      {
+      "id": 29,
+      "name": "Gran Turismo 6",
+      "year": 2013,
+      "price": 15,
+      "img": "assets/Images/gran_turismo_6.jpg",
+      "instock": true,
+      "genre": "racing",
+      "popul": 85,
+       "multiplayer": true
+     },
+      {
+      "id": 30,
+      "name": "GRID 2",
+      "year": 2013,
+      "price": 10,
+      "img": "assets/Images/grid_2.jpg",
+      "instock": true,
+      "genre": "racing",
+      "popul": 72,
+       "multiplayer": true
+     },
+      {
+      "id": 31,
+      "name": "NFS Most Wanted",
+      "year": 2012,
+      "price": 15,
+      "img": "assets/Images/need_for_speed_most_wanted.jpg",
+      "instock": true,
+      "genre": "racing",
+      "popul": 52,
+       "multiplayer": true
+     },
+      {
+      "id": 32,
+      "name": "NFS Rivals COMPLETE EDITION",
+      "year": 2013,
+      "price": 15,
+      "img": "assets/Images/need_for_speed_most_rivals.jpg",
+      "instock": true,
+      "genre": "racing",
+      "popul": 78,
+       "multiplayer": true
+     }
+    ]
   }
   
 ]
