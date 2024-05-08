@@ -8,7 +8,8 @@
       "img": "assets/Images/god_of_war_III.jpg",
       "instock": true,
       "genre": "action", 
-      "popul": 95
+      "popul": 95,
+      "multiplayer": false
     },
         {
       "id": 2,
@@ -18,7 +19,8 @@
       "img": "assets/Images/gta5.jpg",
       "instock": true,
       "genre": "action",
-      "popul": 93
+      "popul": 93,
+      "multiplayer": false    
     },
         {
       "id": 3,
@@ -28,7 +30,8 @@
       "img": "assets/Images/far_cry.png",
       "instock": true,
       "genre": "action",
-      "popul": 89
+      "popul": 89,
+      "multiplayer": true
         },
         {
       "id": 4,
@@ -38,7 +41,8 @@
       "img": "assets/Images/uncharted2.jpeg",
       "instock": true,
       "genre": "action",
-      "popul": 80    
+      "popul": 80,
+      "multiplayer": false
     },
             {
       "id": 5,
@@ -48,7 +52,8 @@
       "img": "assets/Images/batman.webp",
       "instock": true,
       "genre": "action",
-      "popul": 75
+      "popul": 75,
+      "multiplayer": false
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "img": "assets/Images/assasins_creed.jpg",
       "instock": true,
       "genre": "action",
-      "popul": 87
+      "popul": 87,
+      "multiplayer": false
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "img": "assets/Images/bioshock.jpg",
       "instock": true,
       "genre": "action",
-      "popul": 60
+      "popul": 60,
+      "multiplayer": false
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "img": "assets/Images/call_of_duty.jpg",
       "instock": true,
       "genre": "action",
-      "popul": 78
+      "popul": 78,
+      "multiplayer": true
     },
     {
       "id": 9,
@@ -88,7 +96,8 @@
       "img": "assets/Images/james_bond.jpg",
       "instock": true,
       "genre": "action",
-      "popul": 54
+      "popul": 54,
+      "multiplayer": false
     },
     {
       "id": 10,
@@ -98,7 +107,8 @@
       "img": "assets/Images/rd_redemption.jpg",
       "instock": true,
       "genre": "action",
-      "popul": 89
+      "popul": 89,
+      "multiplayer": false
     },
         {
       "id": 11,
@@ -108,7 +118,8 @@
       "img": "assets/Images/the_last_of_us.webp",
       "instock": true,
       "genre": "action",
-      "popul": 92
+      "popul": 92,
+      "multiplayer": true
     },
         {
       "id": 12,
@@ -118,7 +129,8 @@
       "img": "assets/Images/resident_evil.webp",
       "instock": true,
       "genre": "action",
-      "popul": 81
+      "popul": 81,
+      "multiplayer": true
     }
   ]
   },
@@ -132,7 +144,8 @@
       "img": "assets/Images/fifa18.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 85 
+      "popul": 85,
+       "multiplayer": true
      },
      {
       "id": 14,
@@ -142,7 +155,8 @@
       "img": "assets/Images/NBA2K17.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 87 
+      "popul": 87,
+       "multiplayer": true
      },
      
      {
@@ -153,7 +167,8 @@
       "img": "assets/Images/ncafootball.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 70 
+      "popul": 70,
+       "multiplayer": true
      },
      {
       "id": 16,
@@ -163,7 +178,8 @@
       "img": "assets/Images/nhlLE.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 72 
+      "popul": 72,
+       "multiplayer": true
      },
      {
       "id": 17,
@@ -173,7 +189,8 @@
       "img": "assets/Images/pes2018.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 84 
+      "popul": 84,
+       "multiplayer": true
      },
      {
       "id": 18,
@@ -183,7 +200,8 @@
       "img": "assets/Images/topspin.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 77 
+      "popul": 77,
+       "multiplayer": true
      },
      {
       "id": 19,
@@ -193,12 +211,91 @@
       "img": "assets/Images/wwe13.jpg",
       "instock": true,
       "genre": "sports",
-      "popul": 69 
+      "popul": 69,
+       "multiplayer": true
      }
    ] 
   },
   {
-   "adventures": [] 
+   "adventures": [
+          {
+      "id": 20,
+      "name": "Angry Birds Trilogy",
+      "year": 2012,
+      "price": 10,
+      "img": "assets/Images/angry_birds.jpg",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 54,
+       "multiplayer": true
+     },
+     {
+      "id": 21,
+      "name": "Minecraft",
+      "year": 2014,
+      "price": 10,
+      "img": "assets/Images/minecraft.webp",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 59,
+       "multiplayer": false
+     },
+     {
+      "id": 22,
+      "name": "Puppeteer",
+      "year": 2013,
+      "price": 10,
+      "img": "assets/Images/puppeteer.jpg",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 47,
+       "multiplayer": true
+     },
+     {
+      "id": 23,
+      "name": "Ratatouille",
+      "year": 2007,
+      "price": 10,
+      "img": "assets/Images/ratatouille.jpg",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 54,
+       "multiplayer": true
+     },
+     {
+      "id": 24,
+      "name": "Rayman Legends",
+      "year": 2011,
+      "price": 10,
+      "img": "assets/Images/rayman.jpg",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 60,
+       "multiplayer": true
+     },
+     {
+      "id": 25,
+      "name": "SONIC Generations",
+      "year": 2011,
+      "price": 10,
+      "img": "assets/Images/sonic.jpg",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 51,
+      "multiplayer": false
+     },
+     {
+      "id": 26,
+      "name": "The Simpsons",
+      "year": 2007,
+      "price": 10,
+      "img": "assets/Images/the_simpsons.jpg",
+      "instock": true,
+      "genre": "adventure",
+      "popul": 45,
+       "multiplayer": true
+     }
+   ] 
   }
   
 ]
