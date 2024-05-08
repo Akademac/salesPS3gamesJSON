@@ -7,7 +7,8 @@
       "price": 20,
       "img": "assets/Images/god_of_war_III.jpg",
       "instock": true,
-      "genre": "action"
+      "genre": "action", 
+      "popul": 95
     },
         {
       "id": 2,
@@ -17,6 +18,7 @@
       "img": "assets/Images/gta5.jpg",
       "instock": true,
       "genre": "action"
+      "popul": 93,
     },
         {
       "id": 3,
@@ -25,8 +27,9 @@
       "price": 7,
       "img": "assets/Images/far_cry.png",
       "instock": true,
-      "genre": "action"
-    },
+      "genre": "action",
+      "popul": 89
+        },
         {
       "id": 4,
       "name": "Uncharted 2: Among Thieves",
@@ -34,7 +37,8 @@
       "price": 15,
       "img": "assets/Images/uncharted2.jpeg",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 80    
     },
             {
       "id": 5,
@@ -43,7 +47,8 @@
       "price": 6,
       "img": "assets/Images/batman.webp",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 75
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "price": 6,
       "img": "assets/Images/assasins_creed.jpg",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 87
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "price": 5,
       "img": "assets/Images/bioshock.jpg",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 60
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "price": 6,
       "img": "assets/Images/call_of_duty.jpg",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 78
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "price": 6,
       "img": "assets/Images/james_bond.jpg",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 54
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "price": 20,
       "img": "assets/Images/rd_redemption.jpg",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 89
     },
         {
       "id": 11,
@@ -97,7 +107,8 @@
       "price": 25,
       "img": "assets/Images/the_last_of_us.webp",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 92
     },
         {
       "id": 12,
@@ -106,8 +117,84 @@
       "price": 10,
       "img": "assets/Images/resident_evil.webp",
       "instock": true,
-      "genre": "action"
+      "genre": "action",
+      "popul": 81
     }
   ]
-  } 
+  },
+  {
+   "sports": [
+     {
+      "id": 13,
+      "name": "Fifa 18",
+      "year": 2017,
+      "price": 10,
+      "img": "assets/Images/fifa18.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 85 
+     },
+     {
+      "id": 14,
+      "name": "NBA 2K17",
+      "year": 2016,
+      "price": 15,
+      "img": "assets/Images/NBA2K17.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 87 
+     },
+     
+     {
+      "id": 15,
+      "name": "NCAA FOOTBALL14",
+      "year": 2013,
+      "price": 10,
+      "img": "assets/Images/ncafootball.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 70 
+     },
+     {
+      "id": 16,
+      "name": "NHL Legacy Edition",
+      "year": 2015,
+      "price": 15,
+      "img": "assets/Images/nhlLE.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 72 
+     },
+     {
+      "id": 17,
+      "name": "PES2018",
+      "year": 2017,
+      "price": 15,
+      "img": "assets/Images/pes2018.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 84 
+     },
+     {
+      "id": 18,
+      "name": "TOPSPIN 4",
+      "year": 2011,
+      "price": 10,
+      "img": "assets/Images/topspin.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 77 
+     },
+     {
+      "id": 19,
+      "name": "WWE 13",
+      "year": 2012,
+      "price": 10,
+      "img": "assets/Images/wwe13.jpg",
+      "instock": true,
+      "genre": "sports",
+      "popul": 69 
+     }
+   ] 
+  }
 ]
