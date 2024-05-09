@@ -27,7 +27,7 @@
       "name": "Far Cry 3",
       "year": 2012,        
       "price": 7,
-      "img": "assets/Images/far_cry_2.webp",
+      "img": "assets/Images/far_cry_2.png",
       "instock": true,
       "genre": "action",
       "popul": 79,
