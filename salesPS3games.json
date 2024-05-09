@@ -49,7 +49,7 @@
       "name": "Batman: Arkham City",
       "year": 2011,       
       "price": 6,
-      "img": "assets/Images/batman.webp",
+      "img": "assets/Images/batman_2.jpg",
       "instock": true,
       "genre": "action",
       "popul": 75,
