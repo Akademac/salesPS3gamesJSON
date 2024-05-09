@@ -16,7 +16,7 @@
       "name": "Grand Theft Auto V",
       "year": 2013,    
       "price": 10,
-      "img": "assets/Images/gta5.jpg",
+      "img": "assets/Images/gta5_2.jpg",
       "instock": true,
       "genre": "action",
       "popul": 93,
@@ -27,10 +27,10 @@
       "name": "Far Cry 3",
       "year": 2012,        
       "price": 7,
-      "img": "assets/Images/far_cry.png",
+      "img": "assets/Images/far_cry_2.webp",
       "instock": true,
       "genre": "action",
-      "popul": 89,
+      "popul": 79,
       "multiplayer": true
         },
         {
